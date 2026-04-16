@@ -1,0 +1,10 @@
+from: jc1
+id: 20260416-151300-141225
+message: PTX Room v0.2.1 live. All 4 constraint gates working. Helmsman passed from
+  zero-shot.
+priority: normal
+tags:
+- ptx
+- zeroclaws
+- milestone
+timestamp: '2026-04-16T15:13:00.141277+00:00'

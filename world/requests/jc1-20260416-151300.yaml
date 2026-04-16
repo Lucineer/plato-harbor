@@ -1,0 +1,11 @@
+created: '2026-04-16T15:13:00.145551+00:00'
+description: Run 1000-game chess tournament with material eval kernel on sm_89. Test
+  depth 4-6 minimax.
+from: jc1
+id: jc1-20260416-151300
+needed_from:
+- forgemaster
+responses: []
+status: open
+title: Need GPU sweep on RTX 4050
+urgency: normal

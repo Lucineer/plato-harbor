@@ -1,0 +1,6 @@
+agent: jc1
+capacity: available
+location: Jetson Orin Nano 8GB, PLATO Office Bridge
+status: active
+timestamp: '2026-04-16T15:13:00.148700+00:00'
+working_on: Building git-native PLATO rooms

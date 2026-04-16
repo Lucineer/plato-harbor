@@ -1,0 +1,6 @@
+action: broadcast
+agent: jc1
+result:
+  message_id: 20260416-151300-141225
+  passed: true
+timestamp: '2026-04-16T15:13:00.143171+00:00'
